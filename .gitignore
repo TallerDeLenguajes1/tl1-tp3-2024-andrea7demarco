@@ -504,3 +504,5 @@ iOSInjectionProject/
 ## el q no se encuentra en .gitignore
 
 .tds
+
+.vscode/
